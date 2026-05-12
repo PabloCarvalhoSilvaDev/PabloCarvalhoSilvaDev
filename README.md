@@ -26,8 +26,3 @@ Me chamo Pablo Carvalho Silva, tenho 21 anos e sou natural de Brasília. Atualme
 ![](https://github-readme-stats.shion.dev/api?username=PabloCarvalhoSilvaDev&theme=dark&hide_border=true&include_all_commits=truee&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=PabloCarvalhoSilvaDev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/username=PabloCarvalhoSilvaDev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=PabloCarvalhoSilvaDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
